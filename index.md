@@ -2,7 +2,8 @@
  ![BuildStatus](https://travis-ci.org/atotto/travisci-golang-example.png)
 
 This project is made for some GitGHub user.  
-It can run as <code>GNU/Linux</code> , <code>Windows Git</code>or some platform who can run like<code>bash environment</code>  
+  
+It can run as <code>GNU/Linux</code> , <code>Windows Git</code>or some platform who can run like<code>bash environment</code>.  
 There are some upload scripts can help you upload quickly.  
   
 #### Project upload
