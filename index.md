@@ -25,11 +25,12 @@ There are the scripts like these:
 > Init-MarkdownArticle.sh
 > Init-MarkdownArticle.bat
 > AddItems-ForSiteConfig.sh
-> AddItems-ForSiteConfif.bat
+> AddItems-ForSiteConfig.bat
 > Manage-ForSite.sh
 > Manage-ForeSite.bat
   </code>
 </pre>
-The<code>Init-MarkdownArticle</code>can help you to create a article easier.Because you need to locate to the<code>_posts</code>folder,and create a txt file.Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things.How many things you need to do! Use a script can improve your efficiency.  
+The<code>Init-MarkdownArticle</code>can help you to create a article easier.Because you need to locate to the<code>_posts</code>folder,and create a txt file.Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things. How many things you need to do! Use a script can improve your efficiency.  
+You can choose me to improve efficiency! Haha.  
   
-You can choose me.
+The<code>AddItems-ForSiteConfig</code>is work for your Jekyll blog. You can copy this script and use it in<code>/</code>.We will tell you what things you need to add in.We will modify your<code>_config.yml</code>in<code>/</code>.
