@@ -17,7 +17,7 @@ If you want,you can make a new upload script.
 #### 02. JekyllThings tools
 This folder in<code>/</code>.You can see some scripts files in this folder.  
   
-Use the <code>Linux script files</code> to open it.*(If you are a windows computer user.There also ready some scripts files for windows users.)*  
+Use the <code>Linux script files</code> to open it.*(If you are a windows computer user.We are also ready some scripts files for windows users.)*  
   
 There are the scripts like these:
 <pre>
@@ -30,4 +30,6 @@ There are the scripts like these:
 > Manage-ForeSite.bat
   </code>
 </pre>
-The<code>Init-MarkdownArticle</code>can help you to create a article easier.Because you need to right-click in the<code>_posts</code>folder,and then you have to name the article,then you need to input some information like<code>title</code>,<code>description</code>or other things.How many things you need to do! Use a script can improve your efficiency.
+The<code>Init-MarkdownArticle</code>can help you to create a article easier.Because you need to locate to the<code>_posts</code>folder,and create a txt file.Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things.How many things you need to do! Use a script can improve your efficiency.  
+  
+You can choose me.
