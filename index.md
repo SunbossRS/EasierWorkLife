@@ -1,5 +1,5 @@
 ## EasierWorkLife
- ![BuildStatus](https://travis-ci.org/atotto/travisci-golang-example.png)
+ ![BuildStatus](https://sunbossrs.github.io/assets/icons/building.png)
 
 This project is made for some GitHub user.  
   
