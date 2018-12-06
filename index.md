@@ -1,5 +1,5 @@
 ## EasierWorkLife
- <img width=20% height=20% src="https://sunbossrs.github.io/assets/icons/building.png" />
+ <img width=10.2% src="https://sunbossrs.github.io/assets/icons/building.png" />
 
 This project is made for some GitHub user.  
   
