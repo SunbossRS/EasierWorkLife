@@ -29,7 +29,7 @@ There are the scripts like these:
 6> Manage-ForeSite.bat
 </code></pre>
 **However,we recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
-If you are really want to create a folder,please name the folder name to *work* folder.**  
+If you are really want to create a folder,please name the folder name to *work* folder. If not,please use code editor to disable or delete the control of<code>cd ..</code>**  
 The<code>Init-MarkdownArticle</code>can help you to create a article easier. Because you need to locate to the<code>_posts</code>folder,and create a txt file. Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things. How many things you need to do! Use a script can improve your efficiency.  
 You can choose me to improve efficiency! Haha.  
   
