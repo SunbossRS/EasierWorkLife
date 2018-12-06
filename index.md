@@ -1,5 +1,5 @@
 ## EasierWorkLife
- <img width=10.2% src="https://sunbossrs.github.io/assets/icons/building.png" />
+![BuildStatus](https://sunbossrs.github.io/assets/icons/isbuilding.png)
 
 This project is made for some GitHub user.  
   
