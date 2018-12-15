@@ -39,7 +39,7 @@ After you have these environment,first,open the terminal and type:
 <pre> <code>  cd ~/ </pre> </code>  
   
 <pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
-  
+</pre>
 
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
