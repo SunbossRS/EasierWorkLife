@@ -2,10 +2,14 @@
 <pre>
 Docs navigator
 <a href="#WhatIs">What is Easier-Work-Life</a>
+<br />
 <a href="#ToUse">How to use</a>
+<br />
 <a href="#ToDo">Start use</a>
    <a href="#Todo">Recommended</a>
+<br />
 <a href="#UploadTool">GitUpload ®</a>
+<br />
 <a href="JekyllThings">JekyllThings ®</a>
    <a href="#CreateMd">Init-MarkdownArticle ®</a>
    <a href="#AddConfigSite">AddItems-ForSite ®</a>
@@ -21,7 +25,7 @@ It can help you to start to improve efficienty!
 A little bit LOL
 
 <h3 id="ToUse">How to use</h3>
-The project has some scripts to improve your efficienty. Find a script file and run it. I made these scripts to 2 platforms: Linux platform and windows platform. The linux platform run<code>.sh</code>files and windows platform run<code>.bat</code>files.  
+The project has some scripts to improve your efficienty. Find a script file and run it. I made these scripts to 2 platforms: Linux platform and windows platform. The linux platform run <code>.sh</code> files and windows platform run <code>.bat</code> files.  
 If you installed Linux environment in a Windows computer,you can run the .sh files on that machine! **But we recommend you don't run .sh files ON WINDOWS SUBSYSTEM LINUX environment. Because there are some features in .sh file-sources but Windows Subsystem Linux can't run about it.**  
   
 <h3 id="ToDo">Start use</h3>
@@ -46,7 +50,7 @@ After you have these environment,first,open the terminal and type:
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
 **We are really recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
-If you are create a folder,please name the folder name to *worklife* folder. If not,please use code editor to disable or delete the control of<code>cd ..</code>**  
+If you are create a folder,please name the folder name to *worklife* folder. If not,please use code editor to disable or delete the control of <code>cd ..</code> **  
   
 <h4 id="UploadTool"> 01. Project upload</h4>
 You may often type the commands to upload the files.  
@@ -56,7 +60,7 @@ Now you can use a upload script to upload the things.Haha.
 If you want,you can make a new upload script.  
   
 <h4 id="JekyllThings">02. JekyllThings tools</h4>
-This folder in<code>/</code>.You can see some scripts files in this folder.  
+This folder in <code>/</code> . You can see some scripts files in this folder.  
   
 Use the <code>Linux script files</code> to open it.*(If you are a windows computer user.We are also ready some scripts files for windows users.)*  
   
@@ -67,9 +71,11 @@ Init-MarkdownArticle.bat
 AddItems-ForSiteConfig.sh
 AddItems-ForSiteConfig.bat
 </pre>
-I will introduce these products at down.
-The<code>Init-MarkdownArticle</code>can help you to create a article easier. Because you need to locate to the<code>_posts</code>folder,and create a txt file. Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things. How many things you need to do! Use a script can improve your efficiency.  
+I will introduce these products at down.  
+  
+<h4 id="CreateMd">Init-MakrdownArticle ®</h4>
+The <code>Init-MarkdownArticle</code> can help you to create a article easier. Because you need to locate to the <code>_posts</code> folder,and create a txt file. Then you have to name the article and change it to *.md* format,at the last you need to type some informations like <code>title</code> , <code>description</code> or other things. How many things you need to do! Use a script can improve your efficiency.  
 You can choose me to improve efficiency! Haha.  
   
-The<code>AddItems-ForSiteConfig</code>is only work for your Jekyll blog.*(If your blog has _config.yml,you can use it,too!)*. You can copy this script and use it in<code>/</code>.  
+The <code>AddItems-ForSiteConfig</code> is only work for your Jekyll blog.*(If your blog has _config.yml,you can use it,too!)*. You can copy this script and use it in <code>/</code> .  
 In this script,we will tell you what things you need to add into<code>_config.yml</code>. After that,we will modify your<code>_config.yml</code>. The <code>_config.yml</code>is in<code> / </code>.
