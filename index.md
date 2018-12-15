@@ -1,12 +1,14 @@
 ![BuildStatus](https://sunbossrs.github.io/assets/icons/projectbuilding.svg)
 <pre>
+Docs navigator
 <a href="#WhatIs">What is Easier-Work-Life</a>
 <a href="#ToUse">How to use</a>
 <a href="#ToDo">Start use</a>
-<a href="#UploadTool">GitUpload &#R;</a>
-<a href="#CreateMd">Init-MarkdownArticle &#R;</a>
-<a href="#AddConfigSite">AddItems-ForSite &#R;</a>
-<a href="#ManageSite">ManageSite &#R;</a>
+   <a href="#Todo">Recommended</a>
+<a href="#UploadTool">GitUpload ®</a>
+<a href="JekyllThings">JekyllThings ®</a>
+   <a href="#CreateMd">Init-MarkdownArticle ®</a>
+   <a href="#AddConfigSite">AddItems-ForSite ®</a>
 </pre>
   
 <h3 id="WhatIs">What is Easier-Work-Life</h3>
@@ -20,6 +22,7 @@ A little bit LOL
 
 <h3 id="ToUse">How to use</h3>
 The project has some scripts to improve your efficienty. Find a script file and run it. I made these scripts to 2 platforms: Linux platform and windows platform. The linux platform run<code>.sh</code>files and windows platform run<code>.bat</code>files.  
+If you installed Linux environment in a Windows computer,you can run the .sh files on that machine! **But we recommend you don't run .sh files ON WINDOWS SUBSYSTEM LINUX environment. Because there are some features in .sh file-sources but Windows Subsystem Linux can't run about it.**  
   
 <h3 id="ToDo">Start use</h3>
 You can start use this project very quickly. Make sure you are running the environment like:  
@@ -40,7 +43,6 @@ After you have these environment,first,open the terminal and type:
 </pre>
 <pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
 
-
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
 **We are really recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
@@ -53,7 +55,7 @@ Now you can use a upload script to upload the things.Haha.
   
 If you want,you can make a new upload script.  
   
-#### 02. JekyllThings tools
+<h4 id="JekyllThings">02. JekyllThings tools</h4>
 This folder in<code>/</code>.You can see some scripts files in this folder.  
   
 Use the <code>Linux script files</code> to open it.*(If you are a windows computer user.We are also ready some scripts files for windows users.)*  
@@ -65,6 +67,7 @@ Init-MarkdownArticle.bat
 AddItems-ForSiteConfig.sh
 AddItems-ForSiteConfig.bat
 </pre>
+I will introduce these products at down.
 The<code>Init-MarkdownArticle</code>can help you to create a article easier. Because you need to locate to the<code>_posts</code>folder,and create a txt file. Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things. How many things you need to do! Use a script can improve your efficiency.  
 You can choose me to improve efficiency! Haha.  
   
