@@ -3,10 +3,10 @@
 <a href="#WhatIs">What is Easier-Work-Life</a>
 <a href="#ToUse">How to use</a>
 <a href="#ToDo">Start use</a>
-<a href="#UploadTool">GitUpload &copy;</a>
-<a href="#CreateMd">Init-MarkdownArticle &copy;</a>
-<a href="#AddConfigSite">AddItems-ForSite &copy;</a>
-<a href="#ManageSite">ManageSite &copy;</a>
+<a href="#UploadTool">GitUpload &right;</a>
+<a href="#CreateMd">Init-MarkdownArticle &right;</a>
+<a href="#AddConfigSite">AddItems-ForSite &right;</a>
+<a href="#ManageSite">ManageSite &right;</a>
 </pre>
   
 <h3 id="WhatIs">What is Easier-Work-Life</h3>
@@ -39,14 +39,14 @@ After you have these environment,first,open the terminal and type:
 <pre> <code>  cd ~/ </code>  
 </pre>
 <pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
-</pre>
+
 
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
 **We are really recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
 If you are create a folder,please name the folder name to *worklife* folder. If not,please use code editor to disable or delete the control of<code>cd ..</code>**  
   
-#### 01. Project upload
+<h4 id="UploadTool"> 01. Project upload</h4>
 You may often type the commands to upload the files.  
   
 Now you can use a upload script to upload the things.Haha.  
