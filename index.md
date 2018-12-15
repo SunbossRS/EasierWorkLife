@@ -3,10 +3,10 @@
 <a href="#WhatIs">What is Easier-Work-Life</a>
 <a href="#ToUse">How to use</a>
 <a href="#ToDo">Start use</a>
-<a href="#UploadTool">GitUpload &right;</a>
-<a href="#CreateMd">Init-MarkdownArticle &right;</a>
-<a href="#AddConfigSite">AddItems-ForSite &right;</a>
-<a href="#ManageSite">ManageSite &right;</a>
+<a href="#UploadTool">GitUpload &#R;</a>
+<a href="#CreateMd">Init-MarkdownArticle &#R;</a>
+<a href="#AddConfigSite">AddItems-ForSite &#R;</a>
+<a href="#ManageSite">ManageSite &#R;</a>
 </pre>
   
 <h3 id="WhatIs">What is Easier-Work-Life</h3>
