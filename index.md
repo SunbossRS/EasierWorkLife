@@ -36,10 +36,11 @@ Memory: 10MB or more
 Core: GitCMD, GitBASH, Cmder, MINGW with Git, or the environment can run linux WITH GIT.(Don't need Windows Sybsystem Linux)
 </pre>
 After you have these environment,first,open the terminal and type:  
-<pre> <code>  cd ~/ </pre> </code>
-<pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>
-if you think the command is so long,you can use this command: 
-<pre> <code>  git clone git@github.com:SunbossRS/EasierWorkLife.git </code> </pre>
+<pre> <code>  cd ~/ </pre> </code>  
+  
+<pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
+  
+
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
 **We are really recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
@@ -59,12 +60,10 @@ Use the <code>Linux script files</code> to open it.*(If you are a windows comput
   
 There are the scripts like these:
 <pre>
-1> Init-MarkdownArticle.sh
-2> Init-MarkdownArticle.bat
-3> AddItems-ForSiteConfig.sh
-4> AddItems-ForSiteConfig.bat
-5> Manage-ForSite.sh
-6> Manage-ForeSite.bat
+Init-MarkdownArticle.sh
+Init-MarkdownArticle.bat
+AddItems-ForSiteConfig.sh
+AddItems-ForSiteConfig.bat
 </pre>
 The<code>Init-MarkdownArticle</code>can help you to create a article easier. Because you need to locate to the<code>_posts</code>folder,and create a txt file. Then you have to name the article and change it to *.md* format,at the last you need to type some informations like<code>title</code>,<code>description</code>or other things. How many things you need to do! Use a script can improve your efficiency.  
 You can choose me to improve efficiency! Haha.  
