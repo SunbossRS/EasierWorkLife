@@ -36,8 +36,8 @@ Memory: 10MB or more
 Core: GitCMD, GitBASH, Cmder, MINGW with Git, or the environment can run linux WITH GIT.(Don't need Windows Sybsystem Linux)
 </pre>
 After you have these environment,first,open the terminal and type:  
-<pre> <code>  cd ~/ </pre> </code>  
-  
+<pre> <code>  cd ~/ </code>  
+</pre>
 <pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
 </pre>
 
