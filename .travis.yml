@@ -1,0 +1,7 @@
+# Make a build language environment
+language: shell
+
+# Make building status
+ststus:
+  - 1.7
+  - shell
