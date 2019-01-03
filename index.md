@@ -1,56 +1,43 @@
 [![Build Status](https://www.travis-ci.org/SunbossRS/EasierWorkLife.svg?branch=master)](https://www.travis-ci.org/SunbossRS/EasierWorkLife)
 <pre>
-Docs navigator
-<a href="#WhatIs">What is Easier-Work-Life</a>
-<br />
-<a href="#ToUse">How to use</a>
-<br />
-<a href="#ToDo">Start use</a>
-   <a href="#Todo">Recommended</a>
-<br />
+Navigator
+[What is Easier-Work-Life](#What is)  
+[Use it](#Use it)  
 <a href="#UploadTool">GitUpload ®</a>
-<br />
 <a href="JekyllThings">JekyllThings ®</a>
    <a href="#CreateMd">Init-MarkdownArticle ®</a>
    <a href="#AddConfigSite">AddItems-ForSite ®</a>
 </pre>
   
-<h3 id="WhatIs">What is Easier-Work-Life</h3>
-This project is made for some GitHub user.  
-  
-It can run as <code>GNU/Linux</code> , <code>Windows Git</code>or some platform can run like<code>bash environment</code>.  
-  
-It can help you to start to improve efficienty!  
-  
-A little bit LOL
+### What is
+This project is made for some **GitHub user**.  
+This project is more stand by `GNU/Linux` environment. The `Windows GitBash` or some platform can run it. Apart from `bash`,you can use `Windows cmd` to run it! Maybe I will do well in `Windows`. Haha.  
+It can also help you start improve efficienty!  
 
-<h3 id="ToUse">How to use</h3>
-The project has some scripts to improve your efficienty. Find a script file and run it. I made these scripts to 2 platforms: Linux platform and windows platform. The linux platform run <code>.sh</code> files and windows platform run <code>.bat</code> files.  
-If you installed Linux environment in a Windows computer,you can run the .sh files on that machine! **But we recommend you don't run .sh files ON WINDOWS SUBSYSTEM LINUX environment. Because there are some features in .sh file-sources but Windows Subsystem Linux can't run about it.**  
+### Use it
+Download the `.zip` format project,and unextract it.  
+The scripts to improve your efficienty. Every scripts have their work mean. The Linux platform run `.sh` files and Windows platform run `.bat` files.  
+You can also run the `.sh` files on a Windows computer when it installed linux platform! **But,we recommend you don't run `.sh` files ON WINDOWS SUBSYSTEM LINUX environment. Because there is a problem about the Windows Subsystem Linux.**  
   
-<h3 id="ToDo">Start use</h3>
-You can start use this project very quickly. Make sure you are running the environment like:  
-<pre>
+The running the environment must like:  
+```
 Linux platform:
-Processor: AMD/i386
-Memory: 10MB or more
 Core: Linux 6x
-</pre>
-<pre>
-Windows platform
-Processor: No specified
-Memory: 10MB or more
+```
+```
+Windows platform:
 Core: GitCMD, GitBASH, Cmder, MINGW with Git, or the environment can run linux WITH GIT.(Don't need Windows Sybsystem Linux)
-</pre>
+```
 After you have these environment,first,open the terminal and type:  
-<pre> <code>  cd ~/ </code>  
-</pre>
-<pre> <code>  git clone https://github.com/SunbossRS/EasierWorkLife </code> </pre>    
-
+```
+cd ~/
+```
+```
+git clone https://github.com/SunbossRS/EasierWorkLife.git  
+```
 Then,you can see a folder named "EasierWorkLife" in your account root folder.  
 And then,go to your repository and create a folder name "worklife".  
-**We are really recommend you create a folder for our scripts. Because our scripts has a control like<code>cd ..</code>.  
-If you are create a folder,please name the folder name to *worklife* folder. If not,please use code editor to disable or delete the control of <code>cd ..</code> **  
+**Our scripts has a control like `cd ..`. If you are create a folder,please name the folder name to *worklife*. If not,please use code editor to hide the control of `cd ..` **  
   
 <h4 id="UploadTool"> 01. Project upload</h4>
 You may often type the commands to upload the files.  
