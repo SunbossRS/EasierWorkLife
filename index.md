@@ -1,4 +1,4 @@
-![BuildStatus](https://sunbossrs.github.io/assets/icons/projectbuilding.svg)
+[![Build Status](https://www.travis-ci.org/SunbossRS/EasierWorkLife.svg?branch=master)](https://www.travis-ci.org/SunbossRS/EasierWorkLife)
 <pre>
 Docs navigator
 <a href="#WhatIs">What is Easier-Work-Life</a>
