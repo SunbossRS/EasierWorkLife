@@ -3,5 +3,5 @@ language: shell
 
 # Make building status
 ststus:
-  - 1.7
+  - 1.9
   - shell
