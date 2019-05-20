@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-worker: "SunbossRS"
+#worker: "SunbossRS"
 
-language: "shell" "batch"
+#language: "shell" "batch"
 
-use: "jekyll" "git" "echo" "cd"
+#use: "jekyll" "git" "echo" 
