@@ -2,6 +2,6 @@
 language: shell
 
 # Make building status
-ststus:
+status:
   - 1.9
-  - shell
+  - gitproject
