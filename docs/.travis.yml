@@ -1,7 +1,12 @@
 # Make a build language environment
 language: shell
 
+# The project version
+version: "v0.8.12"
+
+# cprtsrs => Copyright to SunbossRS
+
 # Make building status
 status:
-  - 1.9
-  - gitproject
+  - Build version
+  - git.flow.project.cprtsrs
