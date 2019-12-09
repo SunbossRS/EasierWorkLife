@@ -6,8 +6,8 @@ DATE=$(date -d'1 day ago' "+%Y-%m-%d")
 TIME=$(date "+%H:%M:%S")
 echo "  ____"
 echo " |"
-echo "   The update-to-git-platform script for blogs"
-echo "                                             ____| "
+echo "   The upload-to-git-platform script as date-time format commit"
+echo "                                                               ____| "
 echo "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
 echo ""
 echo "Commit changes ..."
