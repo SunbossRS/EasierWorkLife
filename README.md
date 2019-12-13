@@ -6,7 +6,23 @@ Before use this project, make sure:
 - When you use this project, means you are agree MIT license.  
 
 ---
+#### Welcome!
+Welcome to use GitFlow! This is a project who can make the work flow of the software *git* more easy.   
+This software doesn't need any compiler! You can just use it when you clone this repository down.  
+When you copy something in this project, you may need to sign down in the file like "Made by GitHub user @SunbossRS".
 
-Welcome to use GitFlow! This is a project who can make the work flow of git more easy.  
-When you are putting the *GitUpload.sh* into a repository, you need to create a `$gitflow` to your repository and then put that *GitUpload.sh* into `$gitflow`.  
-Use *folderfree.sh* can let *GitUpload.sh* doesn't need to put in folder. You need to put that *folderfree.sh* and the *GitUpload.sh* together and run it.
+#### Start!
+First, create a folder named **$gitflow** in your project.  
+![start01](./docs/start01.jpg)  
+Then, you can just copy the files to your project.  
+![start02](./docs/start02.jpg)  
+At last, you may need to sign in the file like "Made by GitHub user @SunbossRS".  
+![start03](./docs/start03.jpg)  
+The last effect is like this!  
+![start04](./docs/start04.jpg)
+
+#### Use!
+You can just use it whatever you are using Windows system or Linux system.  
+Start your command line in your project's root directory and input `./$gitflow/*file*.sh`. The* *file*.sh* here refers to the file that you want to run.  
+In Windows system, use the *git bash*. In Linux system, use the *bash terminal*.  
+![use01](./docs/use01.jpg)
