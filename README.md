@@ -6,17 +6,18 @@ Before use this project, make sure:
 - When you use this project, means you are agree MIT license.  
 
 ---
+
 #### Welcome!
 Welcome to use GitFlow! This is a project who can make the work flow of the software *git* more easy.   
 This software doesn't need any compiler! You can just use it when you clone this repository down.  
-When you copy something in this project, you may need to sign down in the file like "Made by GitHub user @SunbossRS".
+When you copy something in this project, you may need to type down in the file like "Made by GitHub user @SunbossRS".
 
 #### Start!
 First, create a folder named **$gitflow** in your project.  
 ![start01](./docs/start01.jpg)  
 Then, you can just copy the files to your project.  
 ![start02](./docs/start02.jpg)  
-At last, you may need to sign in the file like "Made by GitHub user @SunbossRS".  
+At last, you may need to type something in the file like "Made by GitHub user @SunbossRS".  
 ![start03](./docs/start03.jpg)  
 The last effect is like this!  
 ![start04](./docs/start04.jpg)
