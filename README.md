@@ -2,7 +2,7 @@
 Thanks for your support!  
 Before use this project, make sure:  
 - This project is for personal and it is not for business.  
-- You cannot use any means to sprout this project without author's agree unless sprouting with *the project link address* and *clone the repository*.  
+- You cannot use any means to spread this project without author's agree unless spreading with *the project link address* or *clone the repository*.  
 - When you use this project, means you are agree MIT license.  
 
 ---
@@ -10,7 +10,7 @@ Before use this project, make sure:
 #### Welcome!
 Welcome to use GitFlow! This is a project who can make the work flow of the software *git* more easy.   
 This software doesn't need any compiler! You can just use it when you clone this repository down.  
-When you copy something in this project, you may need to type down in the file like "Made by GitHub user @SunbossRS".
+When you copy something in this project, you may need to type down like "Made by GitHub user @SunbossRS" in the files.
 
 #### Start!
 First, create a folder named **$gitflow** in your project.  
