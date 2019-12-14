@@ -24,6 +24,6 @@ The last effect is like this!
 
 #### Use!
 You can just use it whatever you are using Windows system or Linux system.  
-Start your command line in your project's root directory and input `./$gitflow/*file*.sh`. The ** *file*.sh** here refers to the file that you want to run.  
+Start your command line in your project's root directory and input `./$gitflow/*file*.sh`. The *file*.sh here refers to the file that you want to run.  
 In Windows system, use the *git bash*. In Linux system, use the *bash terminal*.  
 ![use01](./docs/use01.jpg)
