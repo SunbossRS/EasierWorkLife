@@ -3,7 +3,7 @@
 
 #### Welcome
 
-Welcome to use the scripts! This project can make your work flow upload or pull more easily. It doesn't need any compiler, but just only need your linux/linux-like computer with *git* software command. Its application scenario is usually on your git repository, but seriously, maybe it is illegal to application to some repository.
+Welcome to use the scripts! This project can make your work flow upload or pull more easily. It doesn't need any compiler, but just only need your linux/linux-like computer with *git* software command. Its application scenario is usually on your git repository, but it may not good to application to some repository sometime.
 
 Please remember you need to sign something to description that this is my work when you copy something in this project.
 
