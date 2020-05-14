@@ -8,11 +8,15 @@ Welcome to use the scripts! This project can make your work flow upload or pull 
 Please remember you need to sign something to description that this is my work when you copy something in this project.
 
 Thanks for your support! Please make sure:
-- This project is only for personal but not for business.  
+
+- This project is only for personal but not for business.
+
 - Do not have a secondary creation in this project, unless you are just for share.
+
 - You are agree the MIT license when you are using this project.
 
 #### Start!
+
 Create a folder named **git-upd** in your project at first.
 
 ![start01](./docs/start01.jpg)
@@ -30,7 +34,16 @@ All right! Now you can open the terminal console and location to the **git-upd**
 ![start04](./docs/start04.jpg)
 
 #### Usage
-You can just use it whatever you are using Windows system or Linux system.  
-Start your command line in your project's root directory and input `./$gitflow/*file*.sh`. The *file*.sh here refers to the file that you want to run.  
-In Windows system, use the *git bash*. In Linux system, use the *bash terminal*.  
-![use01](./docs/use01.jpg)
+
+For Linux or Linux-like users, you can double-click the script in the folder. Or you can locate to the folder of your project, then type this command:
+
+```bash
+sh ./git-upd/xxx.sh
+```
+
+*The xxx refers to the script that you want to exec.*
+
+For the Windows users, you may need to use some auxiliary software like *cmder*, *MINGW* etc. Whatever, the method of using is almost the same.
+
+#### License
+This project is under MIT license.
