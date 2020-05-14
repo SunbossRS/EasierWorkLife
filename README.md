@@ -1,28 +1,35 @@
-### GitFlow
-Thanks for your support!  
-Before use this project, make sure:  
-- This project is for personal and it is not for business.  
-- You cannot use any means to spread this project without author's agree unless spreading with *the project link address* or *clone the repository*.  
-- When you use this project, means you are agree MIT license.  
+## help-git-updflow-script
+> Start to be more easily from now on.
 
----
+#### Welcome
 
-#### Welcome!
-Welcome to use GitFlow! This is a project who can make the work flow of the software *git* more easy.   
-This software doesn't need any compiler! You can just use it when you clone this repository down.  
-When you copy something in this project, you may need to type down like "Made by GitHub user @SunbossRS" in the files.
+Welcome to use the scripts! This project can make your work flow upload or pull more easily. It doesn't need any compiler, but just only need your linux/linux-like computer with *git* software command. Its application scenario is usually on your git repository, but seriously, maybe it is illegal to application to some repository.
+
+Please remember you need to sign something to description that this is my work when you copy something in this project.
+
+Thanks for your support! Please make sure:
+- This project is only for personal but not for business.  
+- Do not have a secondary creation in this project, unless you are just for share.
+- You are agree the MIT license when you are using this project.
 
 #### Start!
-First, create a folder named **$gitflow** in your project.  
-![start01](./docs/start01.jpg)  
-Then, you can just copy the files to your project.  
-![start02](./docs/start02.jpg)  
-At last, you may need to type something in the file like "Made by GitHub user @SunbossRS".  
-![start03](./docs/start03.jpg)  
-The last effect is like this!  
+Create a folder named **git-upd** in your project at first.
+
+![start01](./docs/start01.jpg)
+
+And you can copy some scripts in this project then.
+ 
+![start02](./docs/start02.jpg)
+
+Open the scripts that you copied, and description that it is my work.
+
+![start03](./docs/start03.jpg)
+
+All right! Now you can open the terminal console and location to the **git-upd** folder of your project.
+
 ![start04](./docs/start04.jpg)
 
-#### Use!
+#### Usage
 You can just use it whatever you are using Windows system or Linux system.  
 Start your command line in your project's root directory and input `./$gitflow/*file*.sh`. The *file*.sh here refers to the file that you want to run.  
 In Windows system, use the *git bash*. In Linux system, use the *bash terminal*.  
