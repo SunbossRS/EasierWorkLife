@@ -1,6 +1,6 @@
 ## help-git-updflow-script
 
-It is only a small project to help somebody commit his/hers project faster.
+It is only a small project to help somebody commit the project faster.
 
 #### Start!
 
