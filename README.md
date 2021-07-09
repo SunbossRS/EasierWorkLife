@@ -1,16 +1,14 @@
-## help-git-updflow-script
+## git-commit-script
 
 It is only a small project to help somebody commit the project faster.
 
-#### Start!
+### Usage
 
-Download this full project and drag the scripts you like in your project root folder.
+Download the scripts you like in this project to your project.
 
 ![start02](./docs/start02.jpg)
 
-#### Usage
-
-For Linux / Linux-like users, double-click to open it, or locate to the project folder and type
+Linux/Linux like user just need to excute the script.(Windows user can use WSL or GitBash)
 
 ```bash
 sh ./xxx.sh
