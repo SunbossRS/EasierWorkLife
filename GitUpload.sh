@@ -1,6 +1,5 @@
 # !/bin/bash
-# ATTENTION! PUT THIS FILE 2 *YourProject*/$workflow/
-# Go to https://github.com/sunbossrs/gitflow/ for more infos.
+# Go to https://github.com/sunbossrs/git-commit-script/ for more infos.
 
-cd .. && git pull origin master && clear && echo -e " _______    ________   ________\n|  _____|  |___  ___| |__    __|\n| |  ____     |  |       |  |\n| | |_  _|    |  |       |  |\n| |___| |   __|  |__     |  |\n|_______|  |________|    |__|\n _     _    _______    _           _______     ______    _____\n| |   | |  |  __   |  | |         |  ___  |   |  __  |  |  __ |\n| |   | |  | |__|  |  | |         | |   | |   | |__| |  | |  | |\n| |   | |  |  ____|   | |         | |   | |   |  __  |  | |   | |\n|  \_/  |  | |        | |______   | |___| |   | |  | |  | |__| |\n \______/  |_|        |________|  |_______|   |_|  |_|  |_____| \n\n======================================================" && echo -e "\n\n[+] Repository commit:" && read -p "> " REPLY  
-git add . && git stage . && git commit -a -m "${REPLY}" && git gc && git push && echo -e " _________   _     _    _______    _      _   _    _       _      _\n|___   ___| | |   | |  |  ___  |  | \    | | | |  / /     | |    | |\n    | |     | |___| |  | |___| |  |  \   | | | |_/ /      | |    | |\n    | |     |  ___  |  |  ___  |  | | \  | | |  _ |       | |    | |\n    | |     | |   | |  | |   | |  | |\ \ | | | | \ \      | |    | |\n    | |     | |   | |  | |   | |  | | \ \| | | |  \ \     |  \__/  |\n    |_|     |_|   |_|  |_|   |_|  |_|  \___| |_|   \_\     \______/ \n" && echo -e "[+] Thank you for using GitUpload tool!\n\n Goodbye."
+git pull origin master && echo "\n\n[+] Repository commit:" && read -p "> " REPLY  
+git add . && git stage . && git commit -a -m "${REPLY}" && git gc && git push && echo "[+] Thank you for using this tool!"
